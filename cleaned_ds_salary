@@ -1,0 +1,12 @@
+Unnamed: 0,Working_Year,Designation,Experience,Employment_Status,Salary_In_Rupees,Employee_Location,Company_Location,Company_Size,Remote_Working_Ratio
+19,2020,Data Science Consultant,EN,FT,"454,103.00",IN,IN,M,50
+51,2020,Data Analyst,EN,FT,"483,146.00",IN,IN,S,0
+95,2021,Data Scientist,EN,FT,"2,367,272.00",IN,IN,L,50
+110,2021,Data Engineer,EN,FT,"2,421,141.00",IN,IN,L,100
+129,2021,Machine Learning Engineer,EN,FT,"1,591,390.00",IN,IN,S,100
+214,2021,Big Data Engineer,EN,FT,"468,028.00",IN,CH,L,0
+231,2021,Big Data Engineer,EN,FT,"1,291,254.00",IN,IN,L,100
+240,2021,Data Engineer,EN,FT,"1,721,645.00",IN,IN,M,50
+245,2021,AI Scientist,EN,FT,"1,436,468.00",IN,AS,S,100
+254,2021,Data Scientist,EN,FT,"2,259,694.00",IN,IN,M,100
+464,2022,Data Scientist,EN,FT,"1,467,421.00",IN,IN,M,100
